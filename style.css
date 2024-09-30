@@ -6,6 +6,8 @@ font}
 
 .mcintoshp{
     padding: 20px ;background color: #6E6A6F;}
+.socials>li{text-decoration: none;list-style: none;display: inline-flexbox;}
+
 
 #logo
 {margin: 0px;
