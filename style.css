@@ -1,0 +1,87 @@
+html{margin: 0px;}
+
+body 
+{margin: 0px;
+font}
+
+.mcintoshp{
+    padding: 20px ;background color: #6E6A6F;}
+
+#logo
+{margin: 0px;
+padding: 50px;  
+font-size: 300%;     
+font-family: "Space Mono",Georgia;
+width: 20%; 
+border-radius: 20%;}
+
+html{font-family: Arial, Helvetica, sans-serif;font colo}
+
+.Athletes{height: 200px;width: 400px;padding: 20px}
+
+.imageme{border-radius: 56%;text-align: center;}
+(make the image circular)
+    
+
+
+ul
+{margin: 0px;}
+body{background-color: #D4D2D5;}
+
+body>header{background-color:#6E6A6F;
+color: #121310;
+display: flex;
+text-align: center;
+justify-content: space-around;
+}
+
+#navul{display: flex;}
+
+#navul>li{padding: 25px;background-color: #BFAFA6;
+margin: 10px;}
+
+body> header> nav> ul{
+    list-style: none;
+    text-decoration: none;
+font-size: 200%;}
+
+#formtitle{background-color: #AA968A;padding: 20px;}
+form{background-color: #AA968A;padding: 20px;}
+
+.navbutton{
+    color: rgb(6, 64, 73);
+    text-decoration: none;
+padding: 14pxs;}
+
+ 
+ body>main article{
+    width:80%;
+margin:auto}
+
+#main-content{display: flex;
+flex-direction: row;
+justify-content: space-around;}
+
+#main-content>div{width:60%}
+
+#favourofilli
+{display:grid ;
+}
+(white space search bar)
+#navul.inputtype{}
+  
+ 
+
+#footerul{display: flex;
+list-style: none;
+}
+#footerul> div> li
+{margin-left: 10px;
+}
+
+#footerul>div>li>a{text-decoration:none ;
+    color: rgb(6, 64, 73);
+font-size: 30px;
+margin: 20px;background : #6E6A6F;}
+
+h2{color: #010101 ;}
